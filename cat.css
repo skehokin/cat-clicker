@@ -4,32 +4,35 @@
 	height: 100%;
 	z-index: -1
 }
+
 .anim {
 	position: absolute;
-
 }
 
 .lower {
 	z-index: 0
 		top: 0;
 	left: 0;
+	width: 100%;
  }
+
  .upper {
  	z-index: 1;
  		top: 0;
 	left: 0;
+		width: 100%
  }
 
  .number {
-width: 280px;
-text-align: center;
-display: inline;
-z-index: 2;
-padding: 0 20px;
-font-size: 150px;
-font-family: "Raleway", sans-serif;
-font-weight: 100;
-color: white;
-left: 200px;
-top: 450px;
+	width: 280px;
+	text-align: center;
+	display: inline;
+	z-index: 2;
+	padding: 0 20px;
+	font-size: 150px;
+	font-family: "Raleway", sans-serif;
+	font-weight: 100;
+	color: white;
+	left: 200px;
+	top: 450px;
  }

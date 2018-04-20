@@ -27,5 +27,5 @@ cat.onclick = function() {
 	}, 100);
 	setTimeout(function(){
 		catAct.innerHTML = '';
-	}, 700);
+	}, 500);
 }
