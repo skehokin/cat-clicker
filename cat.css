@@ -14,3 +14,13 @@
  .upper {
  	z-index: 1;
  }
+
+ .number {
+margin: 450px 300px;
+z-index: 2;
+padding: 0 20px;
+font-size: 150px;
+font-family: "Raleway", sans-serif;
+font-weight: 100;
+color: white;
+ }
